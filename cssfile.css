@@ -8,6 +8,16 @@
   }
 }
 @media (min-width: 576px) {
+  .email-subscribe{
+    width:30rem;
+  }
+}
+@media (min-width: 768px) {
+  .email-subscribe{
+    width:40rem;
+  }
+}
+@media (min-width: 576px) {
 .myp{
   font-size:4rem;
 }
@@ -16,7 +26,7 @@
 {
 color:orange;
 padding:5px;
-border:3px solid orange;
+border:6px solid orange;
 }
 blockquote{
   border-color: #121212 !important;
@@ -49,4 +59,18 @@ blockquote{
 }
 .fa-twitter {
   color: black;
+}
+.footer
+{
+
+}
+.email-subscribe
+{
+
+  margin-left:auto;
+  margin-right:auto;
+}
+.subscribe-request
+{
+  font-family:Comic Sans MS;
 }
