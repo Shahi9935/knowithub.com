@@ -37,16 +37,16 @@ blockquote{
   height:21rem;
 }
 .fa-facebook-official:hover {
-  color: red;
+  color: #3B5998;
 }
 .fa-google-plus:hover {
-  color: red;
+  color: #E61E1E;
 }
 .fa-quora:hover {
-  color: red;
+  color: #C70009;
 }
 .fa-twitter:hover {
-  color: red;
+  color: #00BBF4;
 }
 .fa-facebook-official {
   color: black;
@@ -73,4 +73,21 @@ blockquote{
 .subscribe-request
 {
   font-family:Comic Sans MS;
+}
+.img-person
+{
+  border: 5px solid #000;
+  border-radius: 50%;
+  width:20rem;
+}
+.vertical-text
+{
+  width:1px;
+  word-wrap: break-word;
+  font-size: 40px;
+  
+}
+a:hover
+{
+  text-decoration: none;
 }

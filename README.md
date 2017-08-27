@@ -1,2 +1,2 @@
 # knowithub.com
-A website - by Myself and Manish Ranjan (Zemotacqy)
+A website - by Aditya Narayan Shahi and Manish Ranjan (Zemotacqy)
