@@ -28,6 +28,12 @@ color:orange;
 padding:5px;
 border:6px solid orange;
 }
+.KIHicon
+{
+  color:orange;
+  padding:5px;
+  border:3px solid orange;
+}
 blockquote{
   border-color: #121212 !important;
 }
@@ -85,7 +91,7 @@ blockquote{
   width:1px;
   word-wrap: break-word;
   font-size: 40px;
-  
+
 }
 a:hover
 {
