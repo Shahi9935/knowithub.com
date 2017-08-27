@@ -26,3 +26,27 @@ blockquote{
   overflow:auto;
   height:21rem;
 }
+.fa-facebook-official:hover {
+  color: red;
+}
+.fa-google-plus:hover {
+  color: red;
+}
+.fa-quora:hover {
+  color: red;
+}
+.fa-twitter:hover {
+  color: red;
+}
+.fa-facebook-official {
+  color: black;
+}
+.fa-google-plus {
+  color: black;
+}
+.fa-quora {
+  color: black;
+}
+.fa-twitter {
+  color: black;
+}
