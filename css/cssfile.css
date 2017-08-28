@@ -11,6 +11,10 @@
   .email-subscribe{
     width:30rem;
   }
+  .vertical-text{
+    width:1px;
+    word-wrap: break-word;
+  }
 }
 @media (min-width: 768px) {
   .email-subscribe{
@@ -88,8 +92,7 @@ blockquote{
 }
 .vertical-text
 {
-  width:1px;
-  word-wrap: break-word;
+
   font-size: 40px;
 
 }
