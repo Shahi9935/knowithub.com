@@ -11,6 +11,9 @@
   .email-subscribe{
     width:30rem;
   }
+
+}
+@media (min-width: 992px) {
   .vertical-text{
     width:1px;
     word-wrap: break-word;
