@@ -11,17 +11,15 @@
   .email-subscribe{
     width:30rem;
   }
-
-}
-@media (min-width: 992px) {
-  .vertical-text{
-    width:1px;
-    word-wrap: break-word;
-  }
+  
 }
 @media (min-width: 768px) {
   .email-subscribe{
     width:40rem;
+  }
+  .vertical-text{
+    width:1px;
+    word-wrap: break-word;
   }
 }
 @media (min-width: 576px) {
