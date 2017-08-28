@@ -35,9 +35,9 @@ border:6px solid orange;
 }
 .KIHicon
 {
-  color:black;
+  color:orange;
   padding:5px;
-  background-color:orange;
+  border:3px solid orange;
 }
 blockquote{
   border-color: #121212 !important;
