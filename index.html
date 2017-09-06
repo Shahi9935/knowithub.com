@@ -49,9 +49,14 @@
           <a class="nav-link" href="aboutus/about.html">About Us</a>
         </li>
       </ul>
-      <form class="form-inline my-2 my-lg-0">
-        <input class="form-control mr-sm-2" type="text" placeholder="Search...">
-        <button class="btn btn-outline-primary my-2 my-sm-0" type="submit">Search</button>
+
+	  <form name="kihsearch" class="form-inline my-2 my-lg-0" 
+	  action="http://www.google.com/search" method="get" onSubmit="kihsitesearch(this)">
+
+		<input id="hiddenquery" type="hidden" name="q" />
+		<input name="qfront" class="form-control mr-sm-2" type="text" placeholder="Search" >
+		<button class="btn btn-outline-primary my-2 my-sm-0" type="submit">Search</button>
+		
       </form>
     </div>
   </nav>
@@ -201,6 +206,8 @@ Nobody can deny the fact that this generation is a part of Information Technolog
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
   <script type='text/javascript' src='js/jsfile.js'></script>
+  <script type='text/javascript' src='js/search.js'></script>
   <!--________________Scripts End_______________-->
+  
 </body>
 </html>
